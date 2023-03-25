@@ -63,7 +63,7 @@ y_0 = y_g \times \frac{c}{g}.
 
 Ta có thể cài đặt code dựa theo ý tưởng trên như sau: (lưu ý code này không xét trường hợp $a$ và $b$ cùng bằng $0$)
 
-```cpp=
+```cpp
 int gcd(int a, int b, int& x, int& y) {
     if (b == 0) {
         x = 1;
