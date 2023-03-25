@@ -2,6 +2,10 @@
 layout: base
 ---
 
+{% if page.use_math %}
+{% include mathjax_support.html %}
+{% endif %}
+
 <div class="intro-header"></div>
 
 <div role="main" class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
@@ -23,9 +27,3 @@ layout: base
     </div>
   {% endif %}
 </div>
-
-{% if page.usemathjax %}
-<script type="text/javascript" async
- src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-  </script>
-{% endif %}
