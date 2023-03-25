@@ -1,5 +1,5 @@
 ---
-layout: custumpost
+layout: custompost
 title: Inline MathJax testing post
 use_math: true
 ---
