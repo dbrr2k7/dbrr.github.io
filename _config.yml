@@ -23,7 +23,7 @@ baseurl: dang7rickroll.github.io
 ###############################################
 
 # Build settings
-markdown: kramdown
+markdown: maruku
 
 navbar-links:
   About Me: Hai Dang Nguyen Dinh, PCT High School
