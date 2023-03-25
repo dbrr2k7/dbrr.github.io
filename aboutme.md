@@ -29,7 +29,7 @@ Blog này sẽ chủ yếu trình bày các nội dung bằng tiếng Việt, tu
 ## Mã nguồn của blog
 "Có thể" có một vài bạn sẽ muốn viết một blog như của mình, vì thế mình sẽ chia sẻ source code của website này tại trang Github dưới đây
 
-_(cập nhật sau)_
+[Github Repo](https://github.com/theadanielskocher/dang7rickroll.github.io/tree/theadanielskocher-patch-2)
 
 ## Liên hệ
 Mọi thắc mắc & yêu cầu xin liên hệ:
