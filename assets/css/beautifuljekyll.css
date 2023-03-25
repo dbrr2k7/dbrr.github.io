@@ -12,7 +12,7 @@ html {
 
 body {
   font-family: 'Open Sans', 'Segoe UI', sans-serif;
-  font-size: 1.000rem;
+  font-size: 1rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
