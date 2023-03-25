@@ -107,5 +107,3 @@ $y = y_0 - k \cdot \frac{a}{g}$
 là các nghiệm của phương trình diophantine đã cho.
 
 Hơn nữa, đây là tập tất cả các nghiệm có thể của phương trình đã cho.
-
-## 
