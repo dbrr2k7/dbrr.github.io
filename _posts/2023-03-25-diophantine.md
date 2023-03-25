@@ -3,6 +3,7 @@ layout: custompost
 title: Phương trình Diophantine tuyến tính
 mathjax: true
 date: 2023-03-25 21:35 +0700
+tags: [CP], [MATHS]
 ---
 
 Nguồn: [CP ALGORITHMS](https://cp-algorithms.com/algebra/linear-diophantine-equation.html)
