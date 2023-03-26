@@ -6,7 +6,7 @@ subtitle: Hehe
 
 Chào mừng bạn đến với phần "About me" của blog này !
 
-Chức năng chính của blog này nằm ở cái tên của của page này: giới thiệu bản thân.
+Chức năng chính của page này nằm ở cái tên: giới thiệu bản thân.
 
 ## Thông tin cá nhân
 
