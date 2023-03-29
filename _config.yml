@@ -10,8 +10,6 @@ remote-theme: beautiful-jekyll
 # --- Required options --- #
 ############################
 
-remote-theme: beautiful-jekyll
-
 # Name of website
 title: dbrr website
 
